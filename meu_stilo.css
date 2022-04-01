@@ -1,0 +1,11 @@
+h1{text-align: center; color: rgb(218, 214, 37);}
+h6{color: rgb(218, 214, 37);}
+h2{text-align: center; color: rgb(218, 214, 37);}
+h3{text-align: center; color: rgb(218, 214, 37);}
+div{color: rgb(218, 214, 37);}
+table{border-style: dashed;}
+button{background-color: yellow;}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    backdrop-filter: blur(3px);
+}
